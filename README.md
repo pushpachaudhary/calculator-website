@@ -15,7 +15,7 @@ This is a simple and responsive calculator built using HTML, CSS, and JavaScript
 - JavaScript
 
 ## 🌐 Live Demo
-https://pushpachaudhary.github.io/calculator-website/
+ https://pushpachaudhary.github.io/calculator-website/
 
 ## 📂 How to Run
 1. Download the project
